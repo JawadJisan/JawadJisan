@@ -21,23 +21,23 @@ Here are some ideas to get you started:
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/jahidulislamzim">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=jahidulislamzim&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/JawadJisan">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=JawadJisan&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/jahidulislamzim/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jahidulislamzim&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/JawadJisan/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JawadJisan&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidulislamzim&theme=radical&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JawadJisan&theme=radical&hide_border=true"/>
 </p>
 
 <details>
  <summary>🏆 Github Profile Trophy</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/jahidulislamzim">
-   <img src="https://github-profile-trophy.vercel.app/?username=jahidulislamzim&column=8&theme=darkhub"/>
+  <a href="https://github.com/JawadJisan">
+   <img src="https://github-profile-trophy.vercel.app/?username=JawadJisan&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
