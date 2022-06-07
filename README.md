@@ -1,17 +1,15 @@
-[![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io) -->
 
 
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadjisan&label=Profile%20views&color=0e75b6&style=flat" alt="jawadjisan" /> </p>
 # Hello, there! <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="20px">
+
 I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
 ## BIO
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `react.js`, `node.js`, `express.js`, `.svg`, `.c`, `.c++`, `.psd`, `.ai`
-<!-- - 🌍  -->
-- 🌱 I’m currently learning **Web Development**
-- 💬 Ping me about **design**, **development** 
- <!-- and **anime** :stuck_out_tongue_closed_eyes: -->
-- 📫 Reach me: [Linked In](https://www.linkedin.com/in/md-mazharul-islam-225064183/),  [Facebook](https://www.facebook.com/maaazhaaar/), [Email](mailto:mailformazhar@gmail.com/)
+
+
 <!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
 
 
