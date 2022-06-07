@@ -5,11 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadjisan&label=Profile%20views&color=0e75b6&style=flat" alt="jawadjisan" /> </p>
 
 
-### HI THERE !
-
-<h1>I'M Jahidul Islam Zim</h1>
-<h3>Jr. MERN Stack Developer</h3>
-
+<h1 align="center">Hi 👋, I'm Jawad Ibne Rafiq</h1>
+<h3 align="center">Jr. MERN Stack Developer</h3>
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📫 E-mail : **jahidulislamzim845@gmail.com**
