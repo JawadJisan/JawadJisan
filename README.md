@@ -9,15 +9,18 @@
 <h3 align="center">Jr. MERN Stack Developer</h3>
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
-- 📫 E-mail : **jahidulislamzim845@gmail.com**
-- 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
-- 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**.
-- I always like working in **Visual Studio Code** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+<!-- - I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**. -->
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- ⚡ I love learning **new technologies**
+
+- 💻 I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+- 📫 Reach me **jisan.sc@gmail.com**
 
 </br>
 
