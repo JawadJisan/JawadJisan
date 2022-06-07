@@ -10,6 +10,7 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
