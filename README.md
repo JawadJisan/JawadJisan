@@ -2,15 +2,30 @@
 
 
 <!-- ### Hi there 👋 -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadjisan&label=Profile%20views&color=0e75b6&style=flat" alt="jawadjisan" /> </p>
-# Hello, there! <img src="https://raw.githubusercontent.com/Maaazhar/Maaazhar/main/wave.gif" width="20px">
-
-I'm Mazharul Islam, I'm a `Front-End Web Developer` based in Bangladesh and I'm learning new things everyday.
-## BIO
 
 
-<!-- - ⚡️ Fun fact: I'm a huge fan of **Anime** -->
+### HI THERE !
+
+<h1>I'M Jahidul Islam Zim</h1>
+<h3>Jr. MERN Stack Developer</h3>
+
+<!-- - 💬 Ask me about **React, Node and JavaScript.** -->
+
+- 📫 E-mail : **jahidulislamzim845@gmail.com**
+- 📝 Portfolio : [jahidulislamzim.com](https://jahidulislamzim.com/)
+- 📄 Resume : [Download Resume](https://drive.google.com/uc?export=download&id=1UN8TuyuPvDDYAdo9vSe22unQwyaXq_ep)
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+- I'm aspiring 🔭️ Web Developer currently learning 🌱 **ReactNative**.
+- I always like working in **Visual Studio Code** Environment.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+
+</br>
+
+### Connect with me:
+
 
 
 <!--
