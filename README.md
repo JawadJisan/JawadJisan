@@ -1,5 +1,8 @@
 <!-- [![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)](https://rishavchanda.io) -->
 
+<p align="center">
+  <img src="[./assets/banner.png](https://wallpapers.com/images/hd/technology-linkedin-background-dce01jsbpnn0z2ej.jpg)" alt="Banner" width="100%" />
+</p>
 
 <!-- ### Hi there 👋 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadjisan&label=Profile%20views&color=0e75b6&style=flat" alt="jawadjisan" /> </p>
